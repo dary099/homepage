@@ -1,1 +1,22 @@
+<style>
+/*homepage*/
+header {
+  position: fixed;
+  
+nav {
+  position: fixed;
+  background-color: cyan;
+  color: black;
+}
+nav li {
+  display: inline;
+}
 
+
+
+/*Music*/
+
+
+
+/*Video Games*/
+</style>
