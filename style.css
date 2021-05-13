@@ -1,22 +1,32 @@
 <style>
-/*homepage*/
-header {
+.header1 {
   position: fixed;
+  border
   
-nav {
+}
+  
+.nav1 {
   position: fixed;
-  background-color: cyan;
+  background-color: blue;
   color: black;
+  dispaly: inline;
+  }
+
+.section1 {
+  background-color: lightblue;
+  color: black;
+  
 }
-nav li {
-  display: inline;
+
+.aside1 {
+  background-color: lightblue;
 }
 
+#footer1 {
+  background-color: darkblue;
+  color: black;
+  
+  
 
 
-/*Music*/
-
-
-
-/*Video Games*/
 </style>
