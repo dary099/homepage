@@ -2,8 +2,7 @@
 .header1 {
   position: fixed;
   border
-  
-}
+  }
   
 .nav1 {
   position: fixed;
@@ -15,8 +14,7 @@
 .section1 {
   background-color: lightblue;
   color: black;
-  
-}
+  }
 
 .aside1 {
   background-color: lightblue;
@@ -25,8 +23,5 @@
 #footer1 {
   background-color: darkblue;
   color: black;
-  
-  
-
-
+}
 </style>
